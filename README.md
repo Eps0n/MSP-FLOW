@@ -15,7 +15,14 @@ Helpdesk service, provided by Microsoft Power platform
     
   
  # Setting up a lab
- ## Lab overview and Pre-requirities
+ ## Lab Overview and Pre-requirities
+ 
+ ### Abstract and learning Objectives
+ This lab will help users get experience with the Microsft Power Platform techologies. This includes **Power Apps**, **Power Automate** and **Microsoft Dataverse**. 
+ This step-by-step instruction shoudl order solutions, for someone new to these technologies- to build this device application.  
+ Technologies covered are;
+         ..*  Power Apps: Dit is gewoon een test 
+ 
  
 
   

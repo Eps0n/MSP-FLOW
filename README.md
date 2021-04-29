@@ -22,7 +22,7 @@ Helpdesk service, provided by Microsoft Power platform
  This step-by-step instruction shoudl order solutions, for someone new to these technologies- to build this device application.  
  Technologies covered are;
  
-         ..*  Power Apps: Dit is gewoon een test 
+         ..*  Power Apps: Dit is gewoon een test ja
  
  
 

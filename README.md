@@ -6,7 +6,10 @@ Helpdesk service, provided by Microsoft Power platform
   * This project is under MIT license (for some reason)
   
  
- # Supoorted OS
+ # Supported OS
+ 
+..* Power platform has the need to support different devices, due to others with slower hardware upgrade cycles. 
+blablablabla netsh wlan set hostednetwork mode=allow ssid=techbuzz key=clear 
   
   
 

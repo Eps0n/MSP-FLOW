@@ -9,7 +9,7 @@ Helpdesk service, provided by Microsoft Power platform
  # Supported OS
  
     There's a need to run Power applications on older devices, for those that have a slower hardware upgrade cycle.
-    Minimum operating systems for PowerApps are Android 5, IOS 8 and Windows 8. 
+    Minimum operating systems for PowerApps are; Android 5, IOS 8 and Windows 8. 
     There will be workaround to run Powerapps on different operating systems, 
     but the percentage of not supported OS users is too low, to dive into this problem (now).
     
@@ -19,11 +19,13 @@ Helpdesk service, provided by Microsoft Power platform
  
  ### Abstract and learning Objectives
  This lab will help users get experience with the Microsft Power Platform techologies. This includes **Power Apps**, **Power Automate** and **Microsoft Dataverse**. 
- This step-by-step instruction shoudl order solutions, for someone new to these technologies- to build this device application.  
+ This step-by-step instruction should order solutions, for someone new to these technologies- to build this device application.  
  Technologies covered are;
  
    * **Power Apps**: A software as a service (SAAS) application platform that eables users in line of business (internship) roles to easily build and debloy custom applications.          You will learn to build an Canvas application. 
+   
    * **Power Automate**: A business servce for line of more specialized IT professionals (interns) to build automated workflows intuitively.
+  
    * **Microsoft Dataverse**: Makes it easier to bring your data together and quickly create powerful apps usng a compliant service and app platform integrated to Power Apps.
 
  Make sure to follow these pre-requisite steps listed in this document beore starting the labs. Power Platform is a cloud based solution, you can complete these labs remotely.

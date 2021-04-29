@@ -9,7 +9,7 @@ Helpdesk service, provided by Microsoft Power platform
  # Supported OS
  
     There's a need to run Power applications on older devices, for those that have a slower hardware upgrade cycle.
-    Minimum operating systems for PowerApps are **Android 5**  
+    Minimum operating systems for PowerApps are <strong>Android 5</strong> 
   
   
 

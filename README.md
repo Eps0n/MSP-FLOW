@@ -32,6 +32,8 @@ Helpdesk service, provided by Microsoft Power platform
  
  If you're not sure where to start, visit this list of additional learning resources and introductory videos, here https://powerapps.microsoft.com/nl-nl/blog/microsoft-powerapps-learning-resources/
  
+ .
+ 
  
  
  

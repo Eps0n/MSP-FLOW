@@ -12,6 +12,11 @@ Helpdesk service, provided by Microsoft Power platform
     Minimum operating systems for PowerApps are Android 5, IOS 8 and Windows 8. 
     There will be workaround to run Powerapps on different operating systems, 
     but the percentage of not supported OS users is too low, to dive into this problem (now).
+    
+  
+ # Setting up a lab
+ ## Lab overview and Pre-requirities
+ 
 
   
   

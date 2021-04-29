@@ -8,8 +8,8 @@ Helpdesk service, provided by Microsoft Power platform
  
  # Supported OS
  
-    ..* Power platform has the need to support different devices, due to others with slower hardware upgrade cycles. 
-    blablablabla netsh wlan set hostednetwork mode=allow ssid=techbuzz key=clear 
+    There's a need to run Power applications on older devices, for those that have a slower hardware upgrade cycle.
+    Minimum operating systems for PowerApps are **Android 5**, **IOS 8** and **Windows 8**. 
   
   
 

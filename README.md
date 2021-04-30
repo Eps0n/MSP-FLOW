@@ -37,6 +37,7 @@ Helpdesk service, provided by Microsoft Power platform
  To enter the Power App enviroment, you'll need to sign-in to your Microsoft business or school account. In other words you'll have to make sure you have a Office365 license. 
  You can now start a payed or free trial of Power Apps. If you need more information on signing in Please click here, https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan
  
+ # Note
     Note; This repository is not meant to introduce users to start within Microsoft Power Platform. 
     This repository is meant to give further instruction about the created workflow by Power Automate and the setup of the Power Helpdesk service.
     I'm not allowed to share the data in detail, but the structure of the application will be visible trhough out the repository.

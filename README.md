@@ -37,10 +37,16 @@ Helpdesk service, provided by Microsoft Power platform
  To enter the Power App enviroment, you'll need to sign-in to your Microsoft business or school account. In other words you'll have to make sure you have a Office365 license. 
  You can now start a payed or free trial of Power Apps. If you need more information on signing in Please click here, https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan
  
-    There's a need to run Power applications on older devices, for those that have a slower hardware upgrade cycle.
-    Minimum operating systems for PowerApps are; Android 5, IOS 8 and Windows 8. 
-    There will be workaround to run Powerapps on different operating systems, 
-    but the percentage of not supported OS users is too low, to dive into this problem (now).
+    Note; This repository is not meant to give any information on how to sign-in and(or) get the requirisies, 
+    given by your own bussiness or anyother datasource.  
+    This repository however, will share the structure of the Helpdesk service and will show how to manage dataflow.
+  
+  Download **Power Apps mobile application**; Visit the app store/ Google Playstore on your mobile device. Search for "**Power Apps**" and install the Power Apps mobile application. If prompted, keep push notifications enabled.
+  
+    ! Optional 
+  Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If prompted, keep push notifications enabled. 
+  
+    
        
  .
  

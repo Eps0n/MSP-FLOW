@@ -43,7 +43,7 @@ Helpdesk service, provided by Microsoft Power platform
   
   Download **Power Apps mobile application**; Visit the app store/ Google Playstore on your mobile device. Search for "**Power Apps**" and install the Power Apps mobile application. If prompted, keep push notifications enabled.
   
-    ! Optional 
+   ! Optional 
   Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If prompted, keep push notifications enabled. 
   
     

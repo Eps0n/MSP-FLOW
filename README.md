@@ -37,21 +37,23 @@ Helpdesk service, provided by Microsoft Power platform
  To enter the Power App enviroment, you'll need to sign-in to your Microsoft business or school account. In other words you'll have to make sure you have a Office365 license. 
  You can now start a payed or free trial of Power Apps. If you need more information on signing in Please click here, https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan
  
-    Note; This repository is not meant to give any information on how to sign-in and(or) get the requirisies, 
-    given by your own bussiness or anyother datasource.  
-    This repository however, will share the structure of the Helpdesk service and will show how to manage dataflow.
   
   Download **Power Apps mobile application**; Visit the app store/ Google Playstore on your mobile device. Search for "**Power Apps**" and install the Power Apps mobile application. If prompted, keep push notifications enabled.
   
    ! Optional 
-  Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If       prompted, keep push notifications enabled. 
+  Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If           prompted, keep push notifications enabled. 
   
   ---
 **NOTE**
+This repository assumes you will use the web version of Power Apps Studio, wich will run in a variety of browsers. (MSe, IE 11, Chrome or Safari).
+This repository will also assume that users are able to access their companies admin centre and already have a structure application running.
+Theirfor I will start creating a flow.
 
-It works with almost all markdown flavours (the below blank line matters).
 
 ---
+
+
+
   
     
        

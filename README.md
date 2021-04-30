@@ -22,7 +22,7 @@ Helpdesk service, provided by Microsoft Power platform
  This step-by-step instruction should order solutions, for someone new to these technologies- to build this device application.  
  Technologies covered are;
  
-   * **Power Apps**: A software as a service (SAAS) application platform that eables users in line of business (internship) roles to easily build and debloy custom applications.          You will learn to build an Canvas application. 
+   * **Power Apps**: A software as a service (SAAS) application platform that enables users in line of business (internship) roles to easily build and debloy custom applications.          You will learn to build an Canvas application. 
    
    * **Power Automate**: A business servce for line of more specialized IT professionals (interns) to build automated workflows intuitively.
   

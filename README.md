@@ -2,7 +2,7 @@
 Helpdesk service, provided by Microsoft Power platform
 
   * Microsoft power platform gives opportunities to build application, without knowledge of code in general
-  * Find more information on MS Power platform https://docs.microsoft.com/nl-nl/learn/powerplatform/ 
+  * Find more information on MS Power platform https://docs.microsoft.com/nl-nl/learn/powerplatform/ This is [Click here](https://docs.microsoft.com/nl-nl/learn/powerplatform/ "Click Here") inline link.
   * This project is under MIT license (for some reason) 
   
  
@@ -44,7 +44,7 @@ Helpdesk service, provided by Microsoft Power platform
   Download **Power Apps mobile application**; Visit the app store/ Google Playstore on your mobile device. Search for "**Power Apps**" and install the Power Apps mobile application. If prompted, keep push notifications enabled.
   
    ! Optional 
-  Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If prompted, keep push notifications enabled. 
+  Install Power Automate mobile application; Go to the App store/ Google Playstore on your mobile device. Search for "**Power Automate**" and install th eapplication. If       prompted, keep push notifications enabled. 
   
   ---
 **NOTE**

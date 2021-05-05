@@ -2,7 +2,7 @@
 Helpdesk service, provided by Microsoft Power platform
 
   * Microsoft power platform gives opportunities to build application, without knowledge of code in general
-  * Find more information on MS Power platform https://docs.microsoft.com/nl-nl/learn/powerplatform/ [Click here](https://docs.microsoft.com/nl-nl/learn/powerplatform/ "Click Here").
+  * Find more information on MS Power platform [Click here](https://docs.microsoft.com/nl-nl/learn/powerplatform/ "Click Here").
   * This project is under MIT license (for some reason) 
   
  

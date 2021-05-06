@@ -1,7 +1,7 @@
   #  Collections & Variables
   ## Collections
  
-- TaskStatus- List of sttaus for a ticket and used to edit a ticket.
-- TaskCategories- List of categories for a ticket and used to create/edit a ticket.
-- TaskPriority- List of priorities and used to edit a ticket.
-- AllTickets- List of all tickets and used to display on my tickets screen.
+  TaskStatus- List of sttaus for a ticket and used to edit a ticket.
+  TaskCategories- List of categories for a ticket and used to create/edit a ticket.
+  TaskPriority- List of priorities and used to edit a ticket.
+  AllTickets- List of all tickets and used to display on my tickets screen.

@@ -1,0 +1,4 @@
+Remove(HelpDesk;Lookup(HelpDesk;
+ID=TicketToDelete.ID));;
+Navigate(MyTicketScreen;
+ScreenTransition.None)

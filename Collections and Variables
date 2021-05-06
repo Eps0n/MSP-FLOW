@@ -1,6 +1,24 @@
-# Collections 
+ # Collections & Variables
  
-  TaskStatus- List of status for a ticket and used to edit a ticket.
+  ##Collections##  
+  
+  TaskStatus- List of sttaus for a ticket and used to edit a ticket.
   TaskCategories- List of categories for a ticket and used to create/edit a ticket.
   TaskPriority- List of priorities and used to edit a ticket.
   AllTickets- List of all tickets and used to display on my tickets screen.
+  
+  ##Variables##
+  
+  NewTicketCategory- Default category when create a new ticket.
+  MyProfile- Current User Office365 user profile metadata.
+  ShowAccessError- Show admin login succeed or failed message. 
+  isAdmin- Used to identify if current user is admin.
+  SelectTicket- Tracks ticket selected in the application.
+  TicketToDelte- Tracks ticket that will be deleted.
+  NewTicketID- Generate a new id when create a new ticket.
+  isBlacKWhite- Check if black color or colorful for status drop-down on edit ticket screen.
+  AssignedToUserDisplayName- Display name of assigned ton gallery on the edit ticket screen. 
+  RunFlow- Tracks if should run the flow or not.
+  TicketToRunFlow- Tracks which ticket shoudl run the flow.
+  
+  

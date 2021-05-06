@@ -1,0 +1,5 @@
+if(MyProfile.Mail in
+adminList.Value; Set(isAdmin;true);
+Set(isAdmin;false));;
+if(isAdmin;Naviggate (MyTicketScreen;
+None);Set(ShowAccesError;True))

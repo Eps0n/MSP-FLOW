@@ -1,3 +1,6 @@
 ##Collections & Variables 
 
-							*TaskStatus 
+**TaskStatus**  * List of status for a ticket and used to edit a ticket. 
+  * Find more information on MS Power platform [Click here](https://docs.microsoft.com/nl-nl/learn/powerplatform/ "Click Here").
+  * This project is under MIT license (for some reason) 
+  

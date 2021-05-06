@@ -1,0 +1,4 @@
+SubmitForm(CreateTicketForm);;
+ResetForm(CreateTicketForm);;
+Set(RunFlow;true);;
+Navigate(ConfirmSubmitScree;None)

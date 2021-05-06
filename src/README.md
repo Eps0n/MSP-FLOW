@@ -13,10 +13,8 @@ You may or may not made changes within your application, that caused any harm to
 
   
   ---
-**NOTE**
-This repository assumes you will use the web version of Power Apps Studio, wich will run in a variety of browsers. (MSe, IE 11, Chrome or Safari).
-This repository will also assume that users are able to access their companies admin centre and already have a structure application running.
-Theirfor I will start creating a flow.
+**IMPORTANT**
+PLease keep in mind that the source code in this folder, is not debugged. Some lines are not deployed at the time of being live. 
 
 
 ---

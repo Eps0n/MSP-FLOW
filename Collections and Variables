@@ -1,6 +1,7 @@
-##Collections & Variables 
+# Power Platform 
+Helpdesk service, provided by Microsoft Power platform
 
-**TaskStatus**  * List of status for a ticket and used to edit a ticket. 
+  * Microsoft power platform gives opportunities to build application, without knowledge of code in general
   * Find more information on MS Power platform [Click here](https://docs.microsoft.com/nl-nl/learn/powerplatform/ "Click Here").
   * This project is under MIT license (for some reason) 
   

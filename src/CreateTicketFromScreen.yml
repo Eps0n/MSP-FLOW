@@ -1,0 +1,7 @@
+Set(NewTicketID;Concatena("AH");
+Text(Now();"[$-en-"
+US]yyymmmdddhhmmss")))
+
+
+LoadingSpinner
+LoadingSpinner.None

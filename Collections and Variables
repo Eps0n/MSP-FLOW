@@ -1,5 +1,5 @@
-  #  Collections & Variables
-  ## Collections
+  # Collections & Variables
+  ##Collections
  
   TaskStatus- List of sttaus for a ticket and used to edit a ticket.
   TaskCategories- List of categories for a ticket and used to create/edit a ticket.

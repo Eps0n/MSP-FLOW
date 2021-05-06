@@ -4,7 +4,7 @@ In this folder you'll find the source code of the applications first version. Ho
 
 
 ## How to read
-The base structure of the application will be the same as the first version. Each file will be named after the object the source is about. 
+The base structure of the application will be the same as the first version. Each file will be named after the object the source is about. The src viewed in this folder, are functional settings of th eapplication. Front-end settings will not be viewed.
 
 
 ## What can I do with this?

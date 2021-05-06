@@ -9,7 +9,7 @@
   
   ##Variables##
   
-  NewTicketCategory- Default category when create a new ticket.
+  **NewTicketCategory**  Default category when create a new ticket.
   MyProfile- Current User Office365 user profile metadata.
   ShowAccessError- Show admin login succeed or failed message. 
   isAdmin- Used to identify if current user is admin.

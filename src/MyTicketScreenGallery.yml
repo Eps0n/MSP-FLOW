@@ -1,0 +1,6 @@
+if(isAdmin;Sort(AllTickets;Created;
+Descending);Sort(Filter(AllTickets;
+Author.Email = MyProfile.Mail  ||
+Author. Claims =
+Myprofile.UserPrincipalName  );
+Created;Descending)) 

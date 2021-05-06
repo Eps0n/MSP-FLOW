@@ -9,3 +9,16 @@ The base structure of the application will be the same as the first version. Eac
 
 ## What can I do with this?
 You may or may not made changes within your application, that caused any harm to the functionality of your product. By saving the previous source code you can always compare or go back to the code (or settings) you had before the excident. 
+
+
+  
+  ---
+**NOTE**
+This repository assumes you will use the web version of Power Apps Studio, wich will run in a variety of browsers. (MSe, IE 11, Chrome or Safari).
+This repository will also assume that users are able to access their companies admin centre and already have a structure application running.
+Theirfor I will start creating a flow.
+
+
+---
+
+

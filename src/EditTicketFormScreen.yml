@@ -1,0 +1,11 @@
+UpdateContext(
+{ShowAssignedToGallery:false;
+AssignedToUserDisplayName:"";
+AssignedToUserMail:"";
+EditTciketPriority:SelectedTicket.
+Priority.Value});;
+If(!IsBlank
+(SelectedTicket.AssignedTo);
+UpdateContext(
+{AssignedToUserDisplayName:SelectedTicket.AssignedTo.DisplayName;
+AssignedToUserMail:SelectedTicket.AssignedTo.Email}))
